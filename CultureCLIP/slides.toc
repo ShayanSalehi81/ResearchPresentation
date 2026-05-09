@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Introduction \& Problem Statement}{3}{0}{1}
+\beamer@sectionintoc {2}{CulTwin: Data Curation Pipeline}{7}{0}{2}
+\beamer@sectionintoc {3}{CultureCLIP: Methodology}{11}{0}{3}
+\beamer@sectionintoc {4}{Experiments \& Results}{14}{0}{4}
+\beamer@sectionintoc {5}{Conclusion \& Future Work}{18}{0}{5}
+\beamer@sectionintoc {6}{References}{20}{0}{6}
