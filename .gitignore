@@ -1,3 +1,11 @@
 VisualSketchpad/slides.log
 *.log
 *.fdb_latexmk
+*.vrb
+*.xdv
+*.synctex.gz
+*.synctex(busy)
+*.snm
+*.out
+*.nav
+*.fls
